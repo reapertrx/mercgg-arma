@@ -12,4 +12,4 @@ We use `Task Force Radio` during our ops to simulate realistic comms during our 
 
 We use several modlists depending on the mission set and Zeus.
 
-[Current Modern Modlist](https://github.com/reapertrx/mercgg-arma/tree/main/modlists/merc_8_1_0.html)
+[Current Modern Modlist](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_8_1_0.html)
