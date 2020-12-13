@@ -1,10 +1,20 @@
 # MERC Gaming Group ArmA Configurations
 
+## Table of Contents
+
+- [MERC Gaming Group ArmA Configurations](#merc-gaming-group-arma-configurations)
+  - [Table of Contents](#table-of-contents)
+  - [ArmA 3](#arma-3)
+    - [Task Force Radio](#task-force-radio)
+    - [Mods How & How To Install](#mods-how--how-to-install)
+      - [Downloading and Installing the Modlist](#downloading-and-installing-the-modlist)
+      - [Modlists](#modlists)
+
 ## ArmA 3
 
-### Task Force Radio (TFAR)
+### Task Force Radio
 
-We use `Task Force Radio` during our ops to simulate realistic comms during our ops.
+We use `Task Force Radio` or `TFAR` during our ops to simulate realistic comms during our ops.
 
 Download TFAR from [here](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases/download/0.9.12/0.9.12.zip).
 
@@ -18,9 +28,9 @@ To install:
 
 4. Restart TeamSpeak
 
-### Mods & How to Install
+### Mods How & How To Install
 
-#### Installing the Modlist
+#### Downloading and Installing the Modlist
 We use several modlists depending on the mission set and Zeus.
 
 1. Right Click the Desired Modlist and click `Save As`, change the file type to `All Files`, and add `.html` to the end of the filename if it is not there already.
