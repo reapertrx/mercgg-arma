@@ -5,6 +5,7 @@
 - [MERC Gaming Group ArmA Configurations](#merc-gaming-group-arma-configurations)
   - [Table of Contents](#table-of-contents)
   - [ArmA 3](#arma-3)
+    - [DLC](#dlc)
     - [Task Force Radio](#task-force-radio)
     - [Mods How & How To Install](#mods-how--how-to-install)
       - [Downloading and Installing the Modlist](#downloading-and-installing-the-modlist)
@@ -16,6 +17,16 @@
 ## ArmA 3
 
 >Ops are Sundays 4:00PM Pacific/5:00PM Mountain/ 6:00PM Central/ 7:00PM Eastern
+
+### DLC
+
+We often use DLC content in our missions. In order to be able to participate on most ops, we recommend having ArmA 3 Apex Edition and ArmA 3 Contact DLC. This will give you access to most equipment in game, and more importantly to Tanoa and Livonia which future ops are scheduled to be on.
+
+If you do not own Contact, you will not be able to participate in Ops based on Livonia.
+
+If you do not own Apex Edition, you will not be able to participate in Ops based on Tanoa.
+
+DLC often goes on sale - so if budget is a concern keep an eye out on the DLC prices.
 
 ### Task Force Radio
 
