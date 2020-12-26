@@ -9,8 +9,11 @@
     - [Mods How & How To Install](#mods-how--how-to-install)
       - [Downloading and Installing the Modlist](#downloading-and-installing-the-modlist)
       - [Modlists](#modlists)
+    - [ArmA 3 Unit](#arma-3-unit)
 
 ## ArmA 3
+
+>Ops are Sundays 4:00PM Pacific/5:00PM Mountain/ 6:00PM Central/ 7:00PM Eastern
 
 ### Task Force Radio
 
@@ -49,3 +52,8 @@ At this point, ArmA 3 will begin to download the Workshop Content.
 
 [Current Modern Modlist](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_8_1_0.html)
 
+### ArmA 3 Unit
+
+For us to get a sense of active players, as well as for you to get a shiny MERC patch for your shoulder, apply for our unit [here](https://units.arma3.com/unit/ps2mercs)
+
+Once you are added to the unit, you can select the unit in your launcher to display your patch.
