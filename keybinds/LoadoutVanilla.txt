@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+
+<html lang="en-US" class="no-js">
+<head>
+	
+	<meta charset="UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" /><link rel="shortcut icon" href="https://mercgg.com/wp-content/uploads/2015/03/favicon.ico" /><title>Page not found &#8211; MERC Gaming Group</title>
+	<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
+		<script type="text/javascript">var theChampDefaultLang = 'en_US', theChampCloseIconPath = 'https://mercgg.com/wp-content/plugins/super-socializer/images/close.png';</script>
+		<script> var theChampSiteUrl = 'https://mercgg.com', theChampVerified = 0, theChampEmailPopup = 0; </script>
+			<script> var theChampSharingAjaxUrl = 'https://mercgg.com/wp-admin/admin-ajax.php', heateorSsFbMessengerAPI = 'https://www.facebook.com/dialog/send?app_id=595489497242932&display=popup&link=%encoded_post_url%&redirect_uri=%encoded_post_url%',heateorSsWhatsappShareAPI = 'web', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Shares', heateorSsShareText = 'Share', theChampPluginIconPath = 'https://mercgg.com/wp-content/plugins/super-socializer/images/logo.png', theChampHorizontalSharingCountEnable = 0, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 0, heateorSsCopyLinkMessage = "Link copied.";
+		var heateorSsHorSharingShortUrl = "";var heateorSsVerticalSharingShortUrl = "";		</script>
+			<style type="text/css">.the_champ_horizontal_sharing .theChampSharing{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_horizontal_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_horizontal_sharing .theChampSharing:hover{
+				border-color: transparent;
+	}
+	.the_champ_vertical_sharing .theChampSharing{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_vertical_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_vertical_sharing .theChampSharing:hover{
+				border-color: transparent;
+	}
+	@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}</style>
+	<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="MERC Gaming Group &raquo; Feed" href="https://mercgg.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="MERC Gaming Group &raquo; Comments Feed" href="https://mercgg.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mercgg.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='https://mercgg.com/wp-includes/css/dashicons.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://mercgg.com/wp-includes/css/admin-bar.min.css?ver=5.6' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+
+			.admin-bar {
+				position: inherit !important;
+				top: auto !important;
+			}
+			.admin-bar .goog-te-banner-frame {
+				top: 32px !important
+			}
+			@media screen and (max-width: 782px) {
+				.admin-bar .goog-te-banner-frame {
+					top: 46px !important;
+				}
+			}
+			@media screen and (max-width: 480px) {
+				.admin-bar .goog-te-banner-frame {
+					position: absolute;
+				}
+			}
+		
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://mercgg.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='bp-member-block-css'  href='https://mercgg.com/wp-content/plugins/buddypress/bp-members/css/blocks/member.min.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-members-block-css'  href='https://mercgg.com/wp-content/plugins/buddypress/bp-members/css/blocks/members.min.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-group-block-css'  href='https://mercgg.com/wp-content/plugins/buddypress/bp-groups/css/blocks/group.min.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-groups-block-css'  href='https://mercgg.com/wp-content/plugins/buddypress/bp-groups/css/blocks/groups.min.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://mercgg.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-admin-bar-css'  href='https://mercgg.com/wp-content/plugins/buddypress/bp-core/css/admin-bar.min.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-legacy-css-css'  href='https://mercgg.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.min.css?ver=7.0.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://mercgg.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='salient-social-css'  href='https://mercgg.com/wp-content/plugins/salient-social/css/style.css?ver=1.1' type='text/css' media='all' />
+<style id='salient-social-inline-css' type='text/css'>
+
+  .sharing-default-minimal .nectar-love.loved,
+  body .nectar-social[data-color-override="override"].fixed > a:before, 
+  body .nectar-social[data-color-override="override"].fixed .nectar-social-inner a,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:hover {
+    background-color: #fc0f0f;
+  }
+  .nectar-social.hover .nectar-love.loved,
+  .nectar-social.hover > .nectar-love-button a:hover,
+  .nectar-social[data-color-override="override"].hover > div a:hover,
+  #single-below-header .nectar-social[data-color-override="override"].hover > div a:hover,
+  .nectar-social[data-color-override="override"].hover .share-btn:hover,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a {
+    border-color: #fc0f0f;
+  }
+  #single-below-header .nectar-social.hover .nectar-love.loved i,
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover,
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover i,
+  #single-below-header .nectar-social.hover .nectar-love-button a:hover i,
+  .nectar-love:hover i,
+  .hover .nectar-love:hover .total_loves,
+  .nectar-love.loved i,
+  .nectar-social.hover .nectar-love.loved .total_loves,
+  .nectar-social.hover .share-btn:hover, 
+  .nectar-social[data-color-override="override"].hover .nectar-social-inner a:hover,
+  .nectar-social[data-color-override="override"].hover > div:hover span,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) i,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) {
+    color: #fc0f0f;
+  }
+</style>
+<link rel='stylesheet' id='bonfire-stream-status-for-twitch-css-css'  href='https://mercgg.com/wp-content/plugins/stream-status-for-twitch/stream-status-for-twitch.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='stream-status-for-twitch-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A500&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://mercgg.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.7.0' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://mercgg.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.7.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://mercgg.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.7.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='bbp-default-css'  href='https://mercgg.com/wp-content/plugins/bbpress/templates/default/css/bbpress.min.css?ver=2.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bsp-css'  href='https://mercgg.com/wp-content/plugins/bbp-style-pack/css/bspstyle.css?ver=4.7.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='printful-global-css'  href='https://mercgg.com/wp-content/plugins/printful-shipping-for-woocommerce/includes/../assets/css/global.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://mercgg.com/wp-content/themes/salient/style.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://mercgg.com/wp-content/themes/salient/css/font-awesome.min.css?ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='salient-grid-system-css'  href='https://mercgg.com/wp-content/themes/salient/css/grid-system.css?ver=12.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='main-styles-css'  href='https://mercgg.com/wp-content/themes/salient/css/style.css?ver=12.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fancyBox-css'  href='https://mercgg.com/wp-content/themes/salient/css/plugins/jquery.fancybox.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar_default_font_open_sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://mercgg.com/wp-content/themes/salient/css/responsive.css?ver=12.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='https://mercgg.com/wp-content/themes/salient/css/woocommerce.css?ver=12.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='salient-child-style-css'  href='https://mercgg.com/wp-content/themes/salient-child/style.css?ver=12.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='skin-original-css'  href='https://mercgg.com/wp-content/themes/salient/css/skin-original.css?ver=12.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gdbto-front-css'  href='https://mercgg.com/wp-content/plugins/gd-bbpress-tools/css/front.min.css?ver=3.1_b2310_free' type='text/css' media='all' />
+<link rel='stylesheet' id='gdatt-attachments-css'  href='https://mercgg.com/wp-content/plugins/gd-bbpress-attachments/css/front.min.css?ver=4.1_b2410_free' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-gallery-css'  href='https://mercgg.com/wp-content/plugins/youtube-channel-gallery/styles.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='https://mercgg.com/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_frontend_css-css'  href='https://mercgg.com/wp-content/plugins/super-socializer/css/front.css?ver=7.13.10' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_sharing_default_svg-css'  href='https://mercgg.com/wp-content/plugins/super-socializer/css/share-svg.css?ver=7.13.10' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamic-css-css'  href='https://mercgg.com/wp-content/themes/salient/css/salient-dynamic-styles.css?ver=25593' type='text/css' media='all' />
+<style id='dynamic-css-inline-css' type='text/css'>
+@media only screen and (min-width:1000px){body #ajax-content-wrap.no-scroll{min-height:calc(100vh - 91px);height:calc(100vh - 91px)!important;}}@media only screen and (min-width:1000px){#page-header-wrap.fullscreen-header,#page-header-wrap.fullscreen-header #page-header-bg,html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header,.nectar_fullscreen_zoom_recent_projects,#nectar_fullscreen_rows:not(.afterLoaded) > div{height:calc(100vh - 90px);}.wpb_row.vc_row-o-full-height.top-level,.wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 90px);}html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header{top:91px;}.admin-bar #page-header-wrap.fullscreen-header,.admin-bar #page-header-wrap.fullscreen-header #page-header-bg,.admin-bar .nectar_fullscreen_zoom_recent_projects,.admin-bar #nectar_fullscreen_rows:not(.afterLoaded) > div{height:calc(100vh - 90px - 32px);}.admin-bar .wpb_row.vc_row-o-full-height.top-level,.admin-bar .wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 90px - 32px);}.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 89px)!important;}.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 89px - 32px)!important;}}#nectar_fullscreen_rows{background-color:;}.post-type-archive-product.woocommerce .container-wrap,.tax-product_cat.woocommerce .container-wrap{background-color:#f6f6f6;}.woocommerce ul.products li.product.material,.woocommerce-page ul.products li.product.material{background-color:#ffffff;}.woocommerce ul.products li.product.minimal .product-wrap,.woocommerce ul.products li.product.minimal .background-color-expand,.woocommerce-page ul.products li.product.minimal .product-wrap,.woocommerce-page ul.products li.product.minimal .background-color-expand{background-color:#ffffff;}
+</style>
+<link rel='stylesheet' id='__EPYT__style-css'  href='https://mercgg.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.4.1.2' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+                         @media (min-width:0px) and (max-width: 767px) {
+                            .epyt-gallery-rowbreak {
+                                display: none;
+                            }
+                            .epyt-gallery-allthumbs[class*="epyt-cols"] .epyt-gallery-thumb {
+                                width: 100% !important;
+                            }
+                          }
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='https://mercgg.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.2.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://mercgg.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='bp-confirm-js-extra'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=7.0.0' id='bp-confirm-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=7.0.0' id='bp-widget-members-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=7.0.0' id='bp-jquery-query-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js?ver=7.0.0' id='bp-jquery-cookie-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js?ver=7.0.0' id='bp-jquery-scroll-to-js'></script>
+<script type='text/javascript' id='bp-legacy-js-js-extra'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all comments (%d)","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View","store_filter_settings":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js?ver=7.0.0' id='bp-legacy-js-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/mercgg.com\/cart","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/js_composer_salient/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.2.0' id='vc_woocommerce-add-to-cart-js-js'></script>
+<script type='text/javascript' id='__ytprefs__-js-extra'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/mercgg.com\/wp-admin\/admin-ajax.php","security":"1fc75b8eb0","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/mercgg.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/mercgg.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"13.4.1.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.4.1.2' id='__ytprefs__-js'></script>
+<link rel="https://api.w.org/" href="https://mercgg.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mercgg.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mercgg.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<meta name="generator" content="WooCommerce 3.7.0" />
+
+	<script type="text/javascript">var ajaxurl = 'https://mercgg.com/wp-admin/admin-ajax.php';</script>
+
+<link rel="stylesheet" id="internoetics-css" href="https://mercgg.com/wp-content/plugins/internoetics-custom-functions/css/custom.css" type="text/css" media="all" />		<!-- BEGIN CUSTOM COLORS (WP THEME CUSTOMIZER) -->
+        <style>
+        /* background color */
+		.sst-status-wrapper { background-color:; }
+        /* status text color */
+        .sst-status-text-live,
+        .sst-status-text-offline { color:; }
+        /* status text hover */
+        .sst-main-wrapper:hover .sst-status-text-live span,
+        .sst-main-wrapper:hover .sst-status-text-offline span { color:; }
+        /* Twitch icon color */
+        .sst-icon-twitch { color:; }
+        /* Twitch icon background color */
+        .sst-twitch-logo-wrapper { background-color:#9b3333; }
+        .sst-status-wrapper { border-color:#9b3333; }
+        
+        /* rounded corners */
+                /* left positioning */
+        .sst-twitch-logo-wrapper {
+            border-top-left-radius:5px;
+            border-bottom-left-radius:5px;
+        }
+        .sst-status-wrapper {
+            border-top-right-radius:5px;
+            border-bottom-right-radius:5px;
+        }
+        /* right positioning */
+                        
+        /* larger design */
+                .sst-main-wrapper {
+            height:45px;
+        }
+        .sst-twitch-logo-wrapper {
+            width:45px;
+            height:45px;
+        }
+        .sst-icon-twitch {
+            top:12px;
+            left:12px;
+            font-size:22px;
+        }
+        .sst-twitch-logo-wrapper::after {
+            width:45x;
+        }
+        .sst-status-wrapper {
+            left:45px;
+            height:45px;
+        }
+        .sst-widget-wrapper .sst-status-wrapper {
+            width:calc(100% - 47px);
+        }
+        .sst-status-text-live,
+        .sst-status-text-offline {
+            font-size:13px;
+        
+            -webkit-transform:translateY(0);
+            -moz-transform:translateY(0);
+            transform:translateY(0);
+        }
+                
+        /* absolute positioning */
+                
+        /* distances (if at top) */
+        .sst-main-wrapper {
+            top:px;
+            left:px;
+        }
+        
+        /* bottom placement + distances */
+                .sst-main-wrapper {
+            top:auto;
+            bottom:25px;
+        }
+        
+        /* right placement + distances */
+                
+        /* disable animation */
+                
+        /* no status text underline */
+                
+        /* hide between resolutions */
+		@media ( min-width:0px) and (max-width:325px) {
+			.sst-main-wrapper { display:none !important; }
+		}
+		</style>
+		<!-- END CUSTOM COLORS (WP THEME CUSTOMIZER) -->
+	
+	<style type='text/css'>img#wpstats{display:none}</style><script type="text/javascript"> var root = document.getElementsByTagName( "html" )[0]; root.setAttribute( "class", "js" ); </script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	        <style type="text/css">
+            #wpadminbar #wp-admin-bar-gdbb-toolbar .ab-icon:before {
+                content: "\f477";
+                top: 2px;
+            }
+
+            @media screen and ( max-width: 782px ) {
+                #wpadminbar li#wp-admin-bar-gdbb-toolbar {
+                    display: block;
+                }
+            }
+        </style>
+    <!-- begin Fast Secure reCAPTCHA - page header css -->
+<style type="text/css">
+div.fs-recaptcha-comments { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-bp-comments { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-login { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-side-login { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-registration { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-bp-registration { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-ms-registration { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-lostpassword { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-wc-checkout { display:block; clear:both; margin-bottom:1em; }
+div.fs-recaptcha-jetpack { display:block; clear:both; margin-bottom:1em; }
+.fs-recaptcha-jetpack p { color:#DC3232; }
+</style>
+<!-- end Fast Secure reCAPTCHA - page header css -->
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="https://i1.wp.com/mercgg.com/wp-content/uploads/2017/05/default_avatar.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/mercgg.com/wp-content/uploads/2017/05/default_avatar.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i1.wp.com/mercgg.com/wp-content/uploads/2017/05/default_avatar.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/mercgg.com/wp-content/uploads/2017/05/default_avatar.png?fit=270%2C270&#038;ssl=1" />
+
+<style data-ampdevmode type='text/css'>
+#wpadminbar .quicklinks li#wp-admin-bar-stats {
+	height: 32px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a {
+	height: 32px;
+	padding: 0;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a div {
+	height: 32px;
+	width: 95px;
+	overflow: hidden;
+	margin: 0 10px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a:hover div {
+	width: auto;
+	margin: 0 8px 0 10px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a img {
+	height: 24px;
+	margin: 4px 0;
+	max-width: none;
+	border: none;
+}
+</style>
+			<style type="text/css" id="wp-custom-css">
+				/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+.content-inner {
+	padding-bottom: 60px
+}
+
+/*
+input[type=text], textarea, input[type=email], input[type=password], input[type=tel], input[type=url], input[type=search], input[type=date]  {
+	background-color: #fff
+}
+
+input[type=text]:focus, textarea:focus, input[type=email]:focus, input[type=search]:focus, input[type=password]:focus, input[type=tel]:focus, input[type=url]:focus, input[type=date]:focus {
+	background-color: #fff
+}
+*/
+
+#bbpress-forums p.bbp-topic-meta img.avatar, #bbpress-forums ul.bbp-reply-revision-log img.avatar, #bbpress-forums ul.bbp-topic-revision-log img.avatar, #bbpress-forums div.bbp-template-notice img.avatar, #bbpress-forums .widget_display_topics img.avatar, #bbpress-forums .widget_display_replies img.avatar {
+	border: 0px
+}
+
+.grecaptcha-badge {
+visibility: hidden !important;
+}			</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+</head>
+
+
+<body class="bp-legacy error404 logged-in admin-bar no-customize-support theme-salient woocommerce-no-js nectar-auto-lightbox original wpb-js-composer js-comp-ver-6.2.0 vc_responsive no-js" data-footer-reveal="false" data-footer-reveal-shadow="none" data-header-format="default" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-dropdown-style="minimal" data-cae="linear" data-cad="650" data-megamenu-width="contained" data-aie="none" data-ls="fancybox" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="default" data-form-submit="regular" data-is="minimal" data-button-style="default" data-user-account-button="false" data-flex-cols="true" data-col-gap="default" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="false" data-ajax-transitions="false" data-full-width-header="true" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="off" data-loading-animation="spin" data-bg-header="false" data-responsive="1" data-ext-responsive="true" data-header-resize="1" data-header-color="light" data-transparent-header="false" data-cart="true" data-remove-m-parallax="" data-remove-m-video-bgs="" data-m-animate="0" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" >
+	
+	<script type="text/javascript"> if(navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/)) { document.body.className += " using-mobile-browser "; } </script>	
+	<div id="header-space"  data-header-mobile-fixed='1'></div> 
+	
+		
+	<div id="header-outer" data-has-menu="true" data-has-buttons="yes" data-header-button_style="default" data-using-pr-menu="false" data-mobile-fixed="1" data-ptnm="false" data-lhe="default" data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="false" data-megamenu-rt="0" data-remove-fixed="0" data-header-resize="1" data-cart="true" data-transparency-option="0" data-box-shadow="small" data-shrink-num="6" data-using-secondary="0" data-using-logo="1" data-logo-height="35" data-m-logo-height="20" data-padding="28" data-full-width="true" data-condense="false" >
+		
+		
+<div id="search-outer" class="nectar">
+	<div id="search">
+		<div class="container">
+			 <div id="search-box">
+				 <div class="inner-wrap">
+					 <div class="col span_12">
+						  <form role="search" action="https://mercgg.com/" method="GET">
+															<input type="text" name="s" id="s" value="Start Typing..." data-placeholder="Start Typing..." />
+															
+												</form>
+					</div><!--/span_12-->
+				</div><!--/inner-wrap-->
+			 </div><!--/search-box-->
+			 <div id="close"><a href="#">
+				<span class="icon-salient-x" aria-hidden="true"></span>				 </a></div>
+		 </div><!--/container-->
+	</div><!--/search-->
+</div><!--/search-outer-->
+
+<header id="top">
+	<div class="container">
+		<div class="row">
+			<div class="col span_3">
+				<a id="logo" href="https://mercgg.com" data-supplied-ml-starting-dark="false" data-supplied-ml-starting="false" data-supplied-ml="false" >
+					<img class="stnd  dark-version" alt="MERC Gaming Group" src="https://i0.wp.com/mercgg.com/wp-content/uploads/2017/10/MERC-Text-Logo.png?fit=1386%2C317&ssl=1"  /> 
+				</a>
+				
+							</div><!--/span_3-->
+			
+			<div class="col span_9 col_last">
+										
+						<a id="mobile-cart-link" href="https://mercgg.com/cart"><i class="icon-salient-cart"></i><div class="cart-wrap"><span>0 </span></div></a>
+											<div class="slide-out-widget-area-toggle mobile-icon slide-out-from-right" data-custom-color="false" data-icon-animation="simple-transform">
+						<div> <a href="#sidewidgetarea" aria-label="Navigation Menu" aria-expanded="false" class="closed">
+							<span aria-hidden="true"> <i class="lines-button x2"> <i class="lines"></i> </i> </span>
+						</a></div> 
+					</div>
+								
+									
+					<nav>
+						
+						<ul class="sf-menu">	
+							<li id="menu-item-5857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5857"><a href="https://mercgg.com/forums">Forums</a></li>
+<li id="menu-item-5858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-5858"><a href="https://mercgg.com/streams">Streams &#038; Media<span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5868"><a href="https://mercgg.com/streams">Twitch Streams</a></li>
+	<li id="menu-item-5860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5860"><a href="https://mercgg.com/media">Youtube</a></li>
+</ul>
+</li>
+<li id="menu-item-6572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6572"><a href="https://mercgg.com/ps2-stats">PS2 Stats</a></li>
+<li id="menu-item-5859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-5859"><a href="https://mercgg.com/about-mercgg">More<span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-6993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6993"><a href="https://mercgg.com/about-mercgg">About MercGG</a></li>
+	<li id="menu-item-7117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7117"><a href="https://mercgg.com/contact">Contact</a></li>
+	<li id="menu-item-7154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7154"><a href="https://mercgg.com/avatar-packs">Customization<span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu"></i></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-7152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7152"><a href="https://mercgg.com/avatar-packs">Avatar Packs</a></li>
+		<li id="menu-item-6638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6638"><a href="https://mercgg.com/merc-teamspeak-themes">Teamspeak Themes</a></li>
+		<li id="menu-item-6994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6994"><a href="https://mercgg.com/divisions">Divisions</a></li>
+		<li id="menu-item-14430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14430"><a href="https://mercgg.com/merc-17th-wallpapers">MERC 17th Wallpapers</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-6521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6521"><a href="https://mercgg.com/shop">Store</a></li>
+<li id="menu-item-5862" class="bp-menu bp-logout-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-5862"><a href="https://mercgg.com/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fmercgg.com%2Farma3%2FLoadoutVanilla.txt&#038;_wpnonce=ee98f375ba">Log Out</a></li>
+						</ul>
+						
+
+													<ul class="buttons sf-menu" data-user-set-ocm="off">
+								
+								<li class="nectar-woo-cart">				
+			<div class="cart-outer" data-user-set-ocm="off" data-cart-style="dropdown">
+				<div class="cart-menu-wrap">
+					<div class="cart-menu">
+						<a class="cart-contents" href="https://mercgg.com/cart"><div class="cart-icon-wrap"><i class="icon-salient-cart"></i> <div class="cart-wrap"><span>0 </span></div> </div></a>
+					</div>
+				</div>
+				
+				<div class="cart-notification">
+					<span class="item-name"></span> was successfully added to your cart.				</div>
+				
+				<div class="widget woocommerce widget_shopping_cart"><h2 class="widgettitle">Cart</h2><div class="widget_shopping_cart_content"></div></div>					
+			</div>
+				
+			</li>								
+							</ul>
+												
+					</nav>
+					
+										
+				</div><!--/span_9-->
+				
+								
+			</div><!--/row-->
+					</div><!--/container-->
+	</header>
+		
+	</div>
+	
+		
+	<div id="ajax-content-wrap">
+		
+		
+<div class="container-wrap">
+	
+		
+	<div class="container main-content">
+		
+		<div class="row">
+			
+			<div class="col span_12">
+				
+				<div id="error-404" 
+								 >
+					<h1>404</h1>
+					<h2>Page Not Found</h2>
+					
+											   <a class="nectar-button large regular-button accent-color has-icon" data-color-override="false" data-hover-color-override="false" href="https://mercgg.com"><span>Back Home </span><i class="icon-button-arrow"></i></a>
+										</div>
+				
+			</div><!--/span_12-->
+			
+		</div><!--/row-->
+		
+	</div><!--/container-->
+
+</div><!--/container-wrap-->
+
+<div id="footer-outer" data-midnight="light" data-cols="4" data-custom-color="false" data-disable-copyright="false" data-matching-section-color="false" data-copyright-line="false" data-using-bg-img="false" data-bg-img-overlay="0.8" data-full-width="false" data-using-widget-area="false" data-link-hover="default">
+	
+	
+  <div class="row" id="copyright" data-layout="default">
+	
+	<div class="container">
+	   
+				<div class="col span_5">
+		   
+					   
+						<p>&copy; 2020 MERC Gaming Group. 
+					   			 </p>
+					   
+		</div><!--/span_5-->
+			   
+	  <div class="col span_7 col_last">
+		<ul class="social">
+					  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		                                 		</ul>
+	  </div><!--/span_7-->
+
+	  	
+	</div><!--/container-->
+	
+  </div><!--/row-->
+  
+		
+</div><!--/footer-outer-->
+
+	
+	<div id="slide-out-widget-area-bg" class="slide-out-from-right light">
+				</div>
+		
+		<div id="slide-out-widget-area" class="slide-out-from-right" data-dropdown-func="default" data-back-txt="Back">
+			
+						
+			<div class="inner" data-prepend-menu-mobile="false">
+				
+				<a class="slide_out_area_close" href="#">
+					<span class="icon-salient-x icon-default-style"></span>				</a>
+				
+				
+									<div class="off-canvas-menu-container mobile-only">
+						
+												
+						<ul class="menu">
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5857"><a href="https://mercgg.com/forums">Forums</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5858"><a href="https://mercgg.com/streams">Streams &#038; Media</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5868"><a href="https://mercgg.com/streams">Twitch Streams</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5860"><a href="https://mercgg.com/media">Youtube</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6572"><a href="https://mercgg.com/ps2-stats">PS2 Stats</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5859"><a href="https://mercgg.com/about-mercgg">More</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6993"><a href="https://mercgg.com/about-mercgg">About MercGG</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7117"><a href="https://mercgg.com/contact">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7154"><a href="https://mercgg.com/avatar-packs">Customization</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7152"><a href="https://mercgg.com/avatar-packs">Avatar Packs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6638"><a href="https://mercgg.com/merc-teamspeak-themes">Teamspeak Themes</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6994"><a href="https://mercgg.com/divisions">Divisions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14430"><a href="https://mercgg.com/merc-17th-wallpapers">MERC 17th Wallpapers</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6521"><a href="https://mercgg.com/shop">Store</a></li>
+<li class="bp-menu bp-logout-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-5862"><a href="https://mercgg.com/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fmercgg.com%2Farma3%2FLoadoutVanilla.txt&#038;_wpnonce=ee98f375ba">Log Out</a></li>
+							
+						</ul>
+						
+						<ul class="menu secondary-header-items">
+													</ul>
+					</div>
+										
+				</div>
+				
+				<div class="bottom-meta-wrap"><ul class="off-canvas-social-links"></ul></div><!--/bottom-meta-wrap-->					
+				</div>
+		
+</div> <!--/ajax-content-wrap-->
+
+	<a id="to-top" class="
+		"><i class="fa fa-angle-up"></i></a>
+	
+        <!-- BEGIN MAIN WRAPPER (show only if Twitch channel name entered) -->
+                <div class="sst-main-wrapper">
+            <a class="sst-twitch" target="_blank" href="https://www.twitch.tv/lepalose" data-nickname="lepalose">
+    <!-- BEGIN TWITCH LOGO -->
+    <div class="sst-twitch-logo-wrapper">
+        <div class="sst-icon-twitch"></div>
+    </div>
+    <!-- END TWITCH LOGO -->
+    <!-- BEGIN STATUS -->
+    <div class="sst-status-wrapper">
+        <div class="sst-status-wrapper-inner">
+            <!-- BEGIN IF ONLINE -->
+            <div class="sst-status-text-live">
+                <div class="sst-live-marker"></div>
+                <span>
+                                            LEPALOSE - LIVE NOW! CLICK TO VIEW.                                    </span>
+            </div>
+            <!-- END IF ONLINE -->
+            <!-- BEGIN IF OFFLINE -->
+            <div class="sst-status-text-offline">
+                <span>
+                                            CURRENTLY OFFLINE                                    </span>
+            </div>
+            <!-- END IF OFFLINE -->
+        </div>
+    </div>
+    <!-- END STATUS -->
+</a>        </div>
+                <!-- END MAIN WRAPPER (show only if Twitch channel name entered) -->
+        
+        <script>
+        jQuery('.sst-twitch').each(function () {
+            var streamName = jQuery(this).data('nickname');
+            getUserID(streamName);
+            // function to retrieve the user ID, given a username. 
+            function getUserID(streamName) {
+            var twitchAPI = 'https://api.twitch.tv/kraken/users?login=';
+            var apiCall = twitchAPI + streamName.toLowerCase();
+            jQuery.ajax({
+                url: apiCall,
+                type: 'GET',
+                headers: {
+                    'Client-ID': 'ekj09tcx24qymrl1wl5c6er2qjkpryz',
+                    'Accept': 'application/vnd.twitchtv.v5+json'
+                },
+                success: function(data) {
+                    if (data.users.length > 0) {
+                        console.log('[Stream Status for Twitch] - Retrieved Stream ID - '+data.users[0]._id+' - for user '+streamName);
+                        var id = data.users[0]._id;
+                        getStreamStatus(id);
+                    } else {
+                        console.log('[Stream Status for Twitch] - Querying ' + streamName + ' - Twitch API error.  Username doesnt exist?', data);
+                        getStreamStatus(null);
+                    }
+                },
+                error: function(data) {
+                    console.log('[Stream Status for Twitch] - Querying ' + streamName + ' - Twitch API error.', data);
+                }
+            });
+            }            
+            function getStreamStatus(id){
+            jQuery.ajax({
+                url: 'https://api.twitch.tv/kraken/streams/'+id,
+                type: 'GET',
+                headers: {
+                    'Client-ID': 'ekj09tcx24qymrl1wl5c6er2qjkpryz',
+                    'Accept': 'application/vnd.twitchtv.v5+json'
+                },
+                success: function(data) {
+                    console.log(data.stream)
+                    if (data.stream && data.stream.broadcast_platform == 'live') {
+                    // show if online
+                    jQuery('.sst-main-wrapper, .sst-main-widget-wrapper').addClass('sst-main-wrapper-active');
+                    // animations
+                    jQuery('.sst-status-text-live').addClass('sst-current-status');
+                    setTimeout(function() {
+                        jQuery('.sst-status-text-live').addClass('sst-current-status-active');
+                        jQuery('.sst-status-wrapper').addClass('sst-status-wrapper-active');
+                    }, 25);                        
+                    
+                } else {
+                    // show if offline (unless 'Hide when not streaming' option enabled)
+                                        // animations
+                    jQuery('.sst-status-text-offline').addClass('sst-current-status');
+                    setTimeout(function() {
+                        jQuery('.sst-status-text-offline').addClass('sst-current-status-active');
+                        jQuery('.sst-status-wrapper').addClass('sst-status-wrapper-active');
+                    }, 25);
+                }
+                },
+                error: function(data) {
+                    console.log('[Stream Status for Twitch] - Failed to retrieve Channel Status')
+                    // show if offline (unless 'Hide when not streaming' option enabled)
+                                        // animations
+                    jQuery('.sst-status-text-offline').addClass('sst-current-status');
+                    setTimeout(function() {
+                        jQuery('.sst-status-text-offline').addClass('sst-current-status-active');
+                        jQuery('.sst-status-wrapper').addClass('sst-status-wrapper-active');
+                    }, 25);                    
+                }
+            });
+        }
+        });
+        </script>
+
+		<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fi0.wp.com%5C%2Fmercgg.com%5C%2Fwp-content%5C%2Fuploads%5C%2Fwoocommerce-placeholder.png%3Fresize%3D375%252C400%26ssl%3D1%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A126%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A126%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A21%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fmercgg.com%5C%2Fproduct-category%5C%2Funcategorized%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fmercgg.com%5C%2F%22%7D' ) );
+		</script>
+		<script type='text/javascript' src='https://mercgg.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-includes/js/admin-bar.min.js?ver=5.6' id='admin-bar-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/mercgg.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='salient-social-js-extra'>
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/mercgg.com\/wp-admin\/admin-ajax.php","postID":"0","rooturl":"https:\/\/mercgg.com","loveNonce":"4ab23367cb"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/salient-social/js/salient-social.js?ver=1.1' id='salient-social-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_f89e0472ae4d08261104a3eb8ef78b70","fragment_name":"wc_fragments_f89e0472ae4d08261104a3eb8ef78b70","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-after'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+	
+</script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcZmbMUAAAAAOOwJwn4hlBt3INRzI_P-ZcP8RZP&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcZmbMUAAAAAOOwJwn4hlBt3INRzI_P-ZcP8RZP","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/third-party/jquery.easing.js?ver=1.3' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/third-party/jquery.mousewheel.js?ver=3.1.13' id='jquery-mousewheel-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/priority.js?ver=12.1.5' id='nectar_priority-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/third-party/transit.js?ver=0.9.9' id='nectar-transit-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/third-party/waypoints.js?ver=4.0.1' id='nectar-waypoints-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/salient-portfolio/js/third-party/imagesLoaded.min.js?ver=4.1.4' id='imagesLoaded-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/third-party/hoverintent.js?ver=1.9' id='hoverintent-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/third-party/jquery.fancybox.min.js?ver=3.3.1' id='fancyBox-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/third-party/superfish.js?ver=1.4.8' id='superfish-js'></script>
+<script type='text/javascript' id='nectar-frontend-js-extra'>
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/mercgg.com\/wp-admin\/admin-ajax.php","postID":"0","rooturl":"https:\/\/mercgg.com","disqusComments":"false","loveNonce":"4ab23367cb","mapApiKey":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/themes/salient/js/init.js?ver=12.1.5' id='nectar-frontend-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/salient-core/js/third-party/touchswipe.min.js?ver=1.0' id='touchswipe-js'></script>
+<script type='text/javascript' id='gdbto-front-js-extra'>
+/* <![CDATA[ */
+var gdbbPressToolsInit = {"quote_method":"html","quote_wrote":"wrote","wp_editor":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/gd-bbpress-tools/js/front.min.js?ver=3.1_b2310_free' id='gdbto-front-js'></script>
+<script type='text/javascript' id='gdatt-attachments-js-extra'>
+/* <![CDATA[ */
+var gdbbPressAttachmentsInit = {"max_files":"4","are_you_sure":"This operation is not reversible. Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/gd-bbpress-attachments/js/front.min.js?ver=4.1_b2410_free' id='gdatt-attachments-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=7.13.10' id='the_champ_ss_general_scripts-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/super-socializer/js/front/sharing/sharing.js?ver=7.13.10' id='the_champ_share_counts-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.4.1.2' id='__ytprefsfitvids__-js'></script>
+<script type='text/javascript' src='https://mercgg.com/wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/wp-admin/'>MERC Gaming Group</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://mercgg.com/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://mercgg.com/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://mercgg.com/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://mercgg.com/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://mercgg.com/wp-admin/customize.php?url=https%3A%2F%2Fmercgg.com%2Farma3%2FLoadoutVanilla.txt'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://mercgg.com/wp-admin/update-core.php' title='8 Plugin Updates'><span class="ab-icon"></span><span class="ab-label">8</span><span class="screen-reader-text">8 Plugin Updates</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://mercgg.com/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://mercgg.com/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-home_slider'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=home_slider'>Slide</a></li><li id='wp-admin-bar-new-nectar_slider'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=nectar_slider'>Slide</a></li><li id='wp-admin-bar-new-portfolio'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=portfolio'>Portfolio Item</a></li><li id='wp-admin-bar-new-product'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=product'>Product</a></li><li id='wp-admin-bar-new-shop_order'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=shop_order'>Order</a></li><li id='wp-admin-bar-new-shop_coupon'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=shop_coupon'>Coupon</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://mercgg.com/wp-admin/user-new.php'>User</a></li></ul></div></li><li id='wp-admin-bar-gdbb-toolbar' class="menupop icon-gdbb-toolbar"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/forums'><span class="ab-icon"></span><span class="ab-label">Forums</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gdbb-toolbar-public' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-forums' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/forums/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Forums</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gdbb-toolbar-forums-default' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-forums-3300'><a class='ab-item' href='https://mercgg.com/forums/forum/general-discussion'>Open Forums</a></li><li id='wp-admin-bar-gdbb-toolbar-forums-5915'><a class='ab-item' href='https://mercgg.com/forums/forum/site-support'>Site Support</a></li><li id='wp-admin-bar-gdbb-toolbar-forums-5891'><a class='ab-item' href='https://mercgg.com/forums/forum/applications'>Applications</a></li></ul></div></li><li id='wp-admin-bar-gdbb-toolbar-views' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/forums/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Views</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gdbb-toolbar-views-default' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-views-popular'><a class='ab-item' href='https://mercgg.com/forums/view/popular'>Most popular topics</a></li><li id='wp-admin-bar-gdbb-toolbar-views-no-replies'><a class='ab-item' href='https://mercgg.com/forums/view/no-replies'>Topics with no replies</a></li><li id='wp-admin-bar-gdbb-toolbar-views-most-replies'><a class='ab-item' href='https://mercgg.com/forums/view/most-replies'>Topics with most replies</a></li><li id='wp-admin-bar-gdbb-toolbar-views-latest-topics'><a class='ab-item' href='https://mercgg.com/forums/view/latest-topics'>Latest topics</a></li><li id='wp-admin-bar-gdbb-toolbar-views-topics-freshness'><a class='ab-item' href='https://mercgg.com/forums/view/topics-freshness'>Topics Freshness</a></li></ul></div></li></ul><ul id='wp-admin-bar-gdbb-toolbar-admin' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-new' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>New</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gdbb-toolbar-new-default' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-new-forum'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=forum'>Forum</a></li><li id='wp-admin-bar-gdbb-toolbar-new-topic'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=topic'>Topic</a></li><li id='wp-admin-bar-gdbb-toolbar-new-reply'><a class='ab-item' href='https://mercgg.com/wp-admin/post-new.php?post_type=reply'>Reply</a></li></ul></div></li><li id='wp-admin-bar-gdbb-toolbar-edit' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Edit</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gdbb-toolbar-edit-default' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-edit-forums'><a class='ab-item' href='https://mercgg.com/wp-admin/edit.php?post_type=forum'>Forums</a></li><li id='wp-admin-bar-gdbb-toolbar-edit-topics'><a class='ab-item' href='https://mercgg.com/wp-admin/edit.php?post_type=topic'>Topics</a></li><li id='wp-admin-bar-gdbb-toolbar-edit-replies'><a class='ab-item' href='https://mercgg.com/wp-admin/edit.php?post_type=reply'>Replies</a></li></ul></div></li><li id='wp-admin-bar-gdbb-toolbar-settings' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Settings</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gdbb-toolbar-settings-default' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-settings-main'><a class='ab-item' href='https://mercgg.com/wp-admin/options-general.php?page=bbpress'>bbPress Settings</a></li></ul><ul id='wp-admin-bar-gdbb-toolbar-settings-third' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-settings-third-tools'><a class='ab-item' href='https://mercgg.com/wp-admin/edit.php?post_type=forum&#038;page=gdbbpress_tools'>GD bbPress Tools</a></li><li id='wp-admin-bar-gdbb-toolbar-settings-third-attachments'><a class='ab-item' href='https://mercgg.com/wp-admin/edit.php?post_type=forum&#038;page=gdbbpress_attachments'>GD bbPress Attachments</a></li></ul></div></li><li id='wp-admin-bar-gdbb-toolbar-tools' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Tools</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gdbb-toolbar-tools-default' class="ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-tools-recount'><a class='ab-item' href='https://mercgg.com/wp-admin/tools.php?page=bbp-recount'>Recount</a></li></ul></div></li></ul><ul id='wp-admin-bar-gdbb-toolbar-info' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-info-links' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Information</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gdbb-toolbar-info-links-bbp' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-bbp-home'><a class='ab-item' href='https://bbpress.org/' target='_blank'>bbPress Homepage</a></li></ul><ul id='wp-admin-bar-gdbb-toolbar-info-links-d4p' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-gdbb-toolbar-d4p-home'><a class='ab-item' href='https://www.dev4press.com/' target='_blank'>Dev4Press Homepage</a></li></ul></div></li></ul></div></li><li id='wp-admin-bar-stats'><a class='ab-item' href='https://mercgg.com/wp-admin/admin.php?page=stats'><div><img src='https://mercgg.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale' srcset='https://mercgg.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale 1x, https://mercgg.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale-2x 2x' width='112' height='24' alt='Stats' title='Views over 48 hours. Click for more Site Stats.'></div></a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://mercgg.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/profile/edit/'>Welcome, <span class="display-name">ReaperTRx</span><img alt="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/01/01355e94099ec8009c25515005a01113259c5be8_full.jpg" class="avatar avatar-26 " height="26" width="26" style="height:26px;width:26px" /></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://mercgg.com/members/ve/profile/edit/'><img alt="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/01/01355e94099ec8009c25515005a01113259c5be8_full.jpg" class="avatar avatar-64 " height="64" width="64" style="height:64px;width:64px" /><span class='display-name'>ReaperTRx</span><span class='username'>ReaperTRx2</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://mercgg.com/members/ve/profile/edit/'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://mercgg.com/wp-login.php?action=logout&#038;_wpnonce=ee98f375ba&#038;redirect_to=https%3A%2F%2Fmercgg.com%2Farma-merc-settings-loadouts-keybinds%3Floggedout%3Dtrue'>Log Out</a></li></ul><ul id='wp-admin-bar-my-account-buddypress' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-my-account-activity' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/activity/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Activity</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-activity-default' class="ab-submenu"><li id='wp-admin-bar-my-account-activity-personal'><a class='ab-item' href='https://mercgg.com/members/ve/activity/'>Personal</a></li><li id='wp-admin-bar-my-account-activity-mentions'><a class='ab-item' href='https://mercgg.com/members/ve/activity/mentions/'>Mentions</a></li><li id='wp-admin-bar-my-account-activity-favorites'><a class='ab-item' href='https://mercgg.com/members/ve/activity/favorites/'>Favorites</a></li><li id='wp-admin-bar-my-account-activity-friends'><a class='ab-item' href='https://mercgg.com/members/ve/activity/friends/'>Friends</a></li><li id='wp-admin-bar-my-account-activity-groups'><a class='ab-item' href='https://mercgg.com/members/ve/activity/groups/'>Groups</a></li></ul></div></li><li id='wp-admin-bar-my-account-xprofile' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/profile/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Profile</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-xprofile-default' class="ab-submenu"><li id='wp-admin-bar-my-account-xprofile-public'><a class='ab-item' href='https://mercgg.com/members/ve/profile/'>View</a></li><li id='wp-admin-bar-my-account-xprofile-edit'><a class='ab-item' href='https://mercgg.com/members/ve/profile/edit/'>Edit</a></li><li id='wp-admin-bar-my-account-xprofile-change-avatar'><a class='ab-item' href='https://mercgg.com/members/ve/profile/change-avatar/'>Change Profile Photo</a></li><li id='wp-admin-bar-my-account-xprofile-change-cover-image'><a class='ab-item' href='https://mercgg.com/members/ve/profile/change-cover-image/'>Change Cover Image</a></li></ul></div></li><li id='wp-admin-bar-my-account-notifications' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/notifications/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Notifications</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-notifications-default' class="ab-submenu"><li id='wp-admin-bar-my-account-notifications-unread'><a class='ab-item' href='https://mercgg.com/members/ve/notifications/'>Unread</a></li><li id='wp-admin-bar-my-account-notifications-read'><a class='ab-item' href='https://mercgg.com/members/ve/notifications/read/'>Read</a></li></ul></div></li><li id='wp-admin-bar-my-account-messages' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/messages/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Messages</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-messages-default' class="ab-submenu"><li id='wp-admin-bar-my-account-messages-inbox'><a class='ab-item' href='https://mercgg.com/members/ve/messages/'>Inbox</a></li><li id='wp-admin-bar-my-account-messages-starred'><a class='ab-item' href='https://mercgg.com/members/ve/messages/starred/'>Starred</a></li><li id='wp-admin-bar-my-account-messages-sentbox'><a class='ab-item' href='https://mercgg.com/members/ve/messages/sentbox/'>Sent</a></li><li id='wp-admin-bar-my-account-messages-compose'><a class='ab-item' href='https://mercgg.com/members/ve/messages/compose/'>Compose</a></li><li id='wp-admin-bar-my-account-messages-notices'><a class='ab-item' href='https://mercgg.com/members/ve/messages/notices/'>Site Notices</a></li></ul></div></li><li id='wp-admin-bar-my-account-friends' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/friends/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Friends</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-friends-default' class="ab-submenu"><li id='wp-admin-bar-my-account-friends-friendships'><a class='ab-item' href='https://mercgg.com/members/ve/friends/'>Friendships</a></li><li id='wp-admin-bar-my-account-friends-requests'><a class='ab-item' href='https://mercgg.com/members/ve/friends/requests/'>No Pending Requests</a></li></ul></div></li><li id='wp-admin-bar-my-account-groups' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/groups/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Groups</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-groups-default' class="ab-submenu"><li id='wp-admin-bar-my-account-groups-memberships'><a class='ab-item' href='https://mercgg.com/members/ve/groups/'>Memberships</a></li><li id='wp-admin-bar-my-account-groups-invites'><a class='ab-item' href='https://mercgg.com/members/ve/groups/invites/'>No Pending Invites</a></li><li id='wp-admin-bar-my-account-groups-create'><a class='ab-item' href='https://mercgg.com/groups/create/'>Create a Group</a></li></ul></div></li><li id='wp-admin-bar-my-account-forums' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/forums/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Forums</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-forums-default' class="ab-submenu"><li id='wp-admin-bar-my-account-forums-topics'><a class='ab-item' href='https://mercgg.com/members/ve/forums/topics/'>Topics Started</a></li><li id='wp-admin-bar-my-account-forums-replies'><a class='ab-item' href='https://mercgg.com/members/ve/forums/replies/'>Replies Created</a></li><li id='wp-admin-bar-my-account-forums-engagements'><a class='ab-item' href='https://mercgg.com/members/ve/forums/engagements/'>Engagements</a></li><li id='wp-admin-bar-my-account-forums-favorites'><a class='ab-item' href='https://mercgg.com/members/ve/forums/favorites/'>Favorite Topics</a></li><li id='wp-admin-bar-my-account-forums-subscriptions'><a class='ab-item' href='https://mercgg.com/members/ve/forums/subscriptions/'>Subscribed Topics</a></li></ul></div></li><li id='wp-admin-bar-my-account-settings' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/settings/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Settings</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-settings-default' class="ab-submenu"><li id='wp-admin-bar-my-account-settings-general'><a class='ab-item' href='https://mercgg.com/members/ve/settings/'>General</a></li><li id='wp-admin-bar-my-account-settings-notifications'><a class='ab-item' href='https://mercgg.com/members/ve/settings/notifications/'>Email</a></li><li id='wp-admin-bar-my-account-settings-data'><a class='ab-item' href='https://mercgg.com/members/ve/settings/data/'>Export Data</a></li><li id='wp-admin-bar-my-account-settings-profile'><a class='ab-item' href='https://mercgg.com/members/ve/settings/profile/'>Profile</a></li></ul></div></li></ul></div></li><li id='wp-admin-bar-bp-notifications' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://mercgg.com/members/ve/notifications/'><span id="ab-pending-notifications" class="count no-alert">0</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-bp-notifications-default' class="ab-submenu"><li id='wp-admin-bar-no-notifications'><a class='ab-item' href='https://mercgg.com/members/ve/notifications/'>No new notifications</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://mercgg.com/wp-login.php?action=logout&#038;_wpnonce=ee98f375ba&#038;redirect_to=https%3A%2F%2Fmercgg.com%2Farma-merc-settings-loadouts-keybinds%3Floggedout%3Dtrue">Log Out</a>
+					</div>
+
+		<div id="sitewide-notice" class="admin-bar-on"></div></body>
+</html>
