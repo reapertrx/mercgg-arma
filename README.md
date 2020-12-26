@@ -111,10 +111,10 @@ Once you are added to the unit, you can select the unit in your launcher to disp
 The two profile files in the [keybinds folder](https://github.com/reapertrx/mercgg-arma/tree/main/keybinds) contain basic graphic configurations, keybinds, and loadouts that are useful for new players to get into the game. These files will need to be downloaded and renamed to your current profile name.
 
 1. Make sure the game and launcher is closed.
-2. Find your Profiles folder, for myself on Windows 8.1, this is in my Documents folder, i.e., “C:\Users\Lepalose\Documents\Arma 3 – Other Profiles\Lepalose”.
+2. Find your Profiles folder, for myself on Windows 8.1, this is in my Documents folder, e.g., “C:\Users\Lepalose\Documents\Arma 3 – Other Profiles\Lepalose”.
 3. Save your current profile files!  I renamed these to “Lepalose – Orig.Arma3Profile” and “Lepalose – Orig.vars.Arma3Profile“
 4. Copy your downloaded MERCLK.Arma3Profile and MERCLK1.vars.Arma3Profile  to your Arma 3 Profile folder.
-5. Duplicate the MERCLK files and rename the copies to your profile name, i.e., MERCLK – Copy.Arma3Profile –> Lepalose.Arma3Profile  and MERCLK.vars – Copy.Arma3Profile –> Lepalose.vars.Arma3Profile
+5. Duplicate the MERCLK files and rename the copies to your profile name, e.g., MERCLK – Copy.Arma3Profile –> Lepalose.Arma3Profile  and MERCLK.vars – Copy.Arma3Profile –> Lepalose.vars.Arma3Profile
 
 >Important:
 
