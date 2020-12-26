@@ -10,6 +10,8 @@
       - [Downloading and Installing the Modlist](#downloading-and-installing-the-modlist)
       - [Modlists](#modlists)
     - [ArmA 3 Unit](#arma-3-unit)
+    - [MERC Settings / Keybinds / Loadouts](#merc-settings--keybinds--loadouts)
+      - [MERC Equipment Loadouts](#merc-equipment-loadouts)
 
 ## ArmA 3
 
@@ -57,3 +59,33 @@ At this point, ArmA 3 will begin to download the Workshop Content.
 For us to get a sense of active players, as well as for you to get a shiny MERC patch for your shoulder, apply for our unit [here](https://units.arma3.com/unit/ps2mercs)
 
 Once you are added to the unit, you can select the unit in your launcher to display your patch.
+
+### MERC Settings / Keybinds / Loadouts
+
+**Recommended for New Players**
+
+The two profile files in the [keybinds folder](https://github.com/reapertrx/mercgg-arma/tree/main/keybinds) contain basic graphic configurations, keybinds, and loadouts that are useful for new players to get into the game. These files will need to be downloaded and renamed to your current profile name.
+
+1. Make sure the game and launcher is closed.
+2. Find your Profiles folder, for myself on Windows 8.1, this is in my Documents folder, i.e., “C:\Users\Lepalose\Documents\Arma 3 – Other Profiles\Lepalose”.
+3. Save your current profile files!  I renamed these to “Lepalose – Orig.Arma3Profile” and “Lepalose – Orig.vars.Arma3Profile“
+4. Copy your downloaded MERCLK.Arma3Profile and MERCLK1.vars.Arma3Profile  to your Arma 3 Profile folder.
+5. Duplicate the MERCLK files and rename the copies to your profile name, i.e., MERCLK – Copy.Arma3Profile –> Lepalose.Arma3Profile  and MERCLK.vars – Copy.Arma3Profile –> Lepalose.vars.Arma3Profile
+
+>Important:
+
+- Check for ArmA keybind conflicts with your TeamSpeak Push To Talk
+- Adjust audio volumes! Options -> Audio
+- Adjust gamma via Options -> Video -> Display and/or change video options as necessary.
+
+#### MERC Equipment Loadouts
+
+The text file in the [keybinds folder](https://github.com/reapertrx/mercgg-arma/tree/main/keybinds) contains the basic and vanilla-friendly loadouts for MERC. If you installed the profiles above, than these are already installed. If you have not, you can cut and copy the individual loadouts as desired from the text file. Make sure to download the file!
+
+1. Open the text file and locate a desired loadout (e.g., “Light AT”)
+2. Select from the start of title to the start of the next title
+3. Copy this text.
+4. Start Arma 3, or if it is already open, go to the Main Menu screen -> Tutorials -> Virtual Arsenal
+5. On the Virtual Arsenal, click Import
+6. Make any fine adjustments you want, and then Save
+
