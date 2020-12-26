@@ -5,6 +5,8 @@
 - [MERC Gaming Group ArmA Configurations](#merc-gaming-group-arma-configurations)
   - [Table of Contents](#table-of-contents)
   - [ArmA 3](#arma-3)
+    - [Ace Medical](#ace-medical)
+    - [Ear Plugs & Entrenching Tools](#ear-plugs--entrenching-tools)
     - [DLC](#dlc)
     - [Task Force Radio](#task-force-radio)
     - [Mods How & How To Install](#mods-how--how-to-install)
@@ -17,6 +19,37 @@
 ## ArmA 3
 
 >Ops are Sundays 4:00PM Pacific/5:00PM Mountain/ 6:00PM Central/ 7:00PM Eastern
+
+We are a casual ArmA 3 group - while we expect players to follow orders - we do not have mandatory training or ranks within our organization.
+
+The ruleset is pretty small - 
+
+1. Follow orders of whoever happens to be leading
+2. Be respectful to one another
+
+While training for special roles is not mandatory, the leader of the op may decide to put players that are more experienced in roles such as Armor, Pilot or other specialty roles.
+
+If you have interest in specialty roles or more training just ask on the ArmA 3 chat in Discord.
+
+### Ace Medical
+
+We use a light version of Ace Medical:
+
+- Bandages fix one wound
+- Blood or Saline is required when someone has lost blood
+- Tourniquets stop bleeding on limbs
+- CPR is required to start someone's heart
+- Epinephrine is used to wake someone after they have a heart beat
+- Morphine can get rid of pain effects, but those subside after awhile without morphine
+- Bleed out timer is roughly 5 minutes, with additional or less time depending on severity of wounds
+- PAK's are not required
+- All players can give blood
+
+### Ear Plugs & Entrenching Tools
+
+You should always have earplugs in a loadout and use them - the Ace Self Interact.
+
+Entrenching tools are useful for digging fortifications - you should carry one whenever possible.
 
 ### DLC
 
