@@ -65,17 +65,17 @@ DLC often goes on sale - so if budget is a concern keep an eye out on the DLC pr
 
 We use `Task Force Radio` or `TFAR` during our ops to simulate realistic comms during our ops.
 
-Download TFAR from [here](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases/download/0.9.12/0.9.12.zip).
-
 To install:
 
-1. Unzip the TFAR download
+1. Navigate to your `Steamapps/Common` folder.
 
-2. Copy the `@task_force_radio` folder to `...\steamapps\common\arma3`
+2. Navigate to `Arma 3` -> `!Workshop` -> `@Task Force Arrowhead Radio (BETA!!!)` folder.
 
-3. Run the TeamSpeak Plugin Installer in the `@task_force_radio\teamspeak` folder
+3. Run the TeamSpeak Plugin Installer in the `@Task Force Arrowhead Radio (BETA!!!)\teamspeak` folder
 
 4. Restart TeamSpeak
+
+6. Disable the old TFAR Plugin if it is enabled.
 
 ### Mods How & How To Install
 
@@ -96,8 +96,8 @@ At this point, ArmA 3 will begin to download the Workshop Content.
 
 #### Modlists
 
-[Current Modern Modlist](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_8_1_0.html)
-
+[Current Modern Modlist for those With the SOG DLC](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_9_0_0.html)
+[Current Modern Modlist for users Without SOG DLC](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_9_0_0_nspf.html)
 ### ArmA 3 Unit
 
 For us to get a sense of active players, as well as for you to get a shiny MERC patch for your shoulder, apply for our unit [here](https://units.arma3.com/unit/ps2mercs)
