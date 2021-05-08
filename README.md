@@ -97,6 +97,7 @@ At this point, ArmA 3 will begin to download the Workshop Content.
 #### Modlists
 
 [Current Modern Modlist for those With the SOG DLC](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_ctf_1_0_0.html)
+
 [Current Modern Modlist for users Without SOG DLC](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_ctf_1_0_0_nspf.html)
 ### ArmA 3 Unit
 
