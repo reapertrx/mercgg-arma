@@ -96,8 +96,8 @@ At this point, ArmA 3 will begin to download the Workshop Content.
 
 #### Modlists
 
-[Current Modern Modlist for those With the SOG DLC](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_9_0_0.html)
-[Current Modern Modlist for users Without SOG DLC](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_9_0_0_nspf.html)
+[Current Modern Modlist for those With the SOG DLC](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_ctf_1_0_0.html)
+[Current Modern Modlist for users Without SOG DLC](https://raw.githubusercontent.com/reapertrx/mercgg-arma/main/modlists/merc_ctf_1_0_0_nspf.html)
 ### ArmA 3 Unit
 
 For us to get a sense of active players, as well as for you to get a shiny MERC patch for your shoulder, apply for our unit [here](https://units.arma3.com/unit/ps2mercs)
