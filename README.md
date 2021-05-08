@@ -69,13 +69,13 @@ To install:
 
 1. Navigate to your `Steamapps/Common` folder.
 
-2. Navigate to `Arma 3` -> `!Workshop` -> `@Task Force Arrowhead Radio (BETA!!!)` folder.
+2. Navigate to `Arma 3` -> `!Workshop` -> `@Task Force Radio` folder.
 
-3. Run the TeamSpeak Plugin Installer in the `@Task Force Arrowhead Radio (BETA!!!)\teamspeak` folder
+3. Run the TeamSpeak Plugin Installer in the `@Task Force Radio\teamspeak` folder
 
 4. Restart TeamSpeak
 
-6. Disable the old TFAR Plugin if it is enabled.
+6. Disable the beta TFAR Plugin if it is enabled.
 
 ### Mods How & How To Install
 
