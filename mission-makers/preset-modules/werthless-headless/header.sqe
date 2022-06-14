@@ -1,0 +1,9 @@
+version=54;
+name="Werthles Headless Client";
+author="Val";
+category="EdSubcat_Personnel";
+requiredAddons[]=
+{
+	"Werthles_WHK",
+	"A3_Characters_F"
+};

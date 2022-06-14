@@ -1,0 +1,311 @@
+version=54;
+center[]={0,-185.97,0};
+class items
+{
+	items=2;
+	class Item0
+	{
+		dataType="Logic";
+		id=26;
+		type="Werthles_moduleWHM";
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Werthles_moduleWHM_Ignores";
+				expression="_this setVariable ['Ignores',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="CUP_B_Pchela1T_CDF,B_UAV_06_F,B_UAV_06_medical_F,B_UAV_01_F,B_UAV_05_F,B_UGV_01_F,B_UGV_01_rcws_F,B_UAV_02_dynamicLoadout_F,B_T_UAV_03_dynamicLoadout_F,B_T_UGV_01_olive_F,B_T_UGV_01_rcws_olive_F,CUP_B_AH6X_USA,CUP_B_USMC_DYN_MQ9,CUP_B_Seafox_USV_USMC,O_UAV_01_F,CUP_O_Pchela1T_RU,O_UAV_06_medical_F,O_UAV_01_F,O_UGV_01_F,O_UGV_01_rcws_F,O_UAV_02_dynamicLoadout_F,O_T_UAV_04_CAS_F,O_T_UGV_01_ghex_F,O_T_UGV_01_rcws_ghex_F,I_UAV_06_F,I_UAV_06_medical_F,I_UAV_01_F,I_UGV_01_F,I_UGV_01_rcws_F,I_UAV_02_dynamicLoadout_F,C_UAV_06_F,C_UAV_06_medical_F,C_IDAP_UAV_06_antimine_F,C_IDAP_UAV_01_F,C_IDAP_UGV_01_F,C_IDAP_UAV_06_F,C_IDAP_UAV_06_medical_F,I_E_UAV_06_F,I_E_UAV_06_medical_f,I_E_UAV_01_F,I_E_UGV_02_Demining_F,I_E_UGV_02_Science_F,I_E_UGV_01_F,I_E_UGV_01_rcws_F";
+					};
+				};
+			};
+			class Attribute1
+			{
+				property="Werthles_moduleWHM_Debug";
+				expression="_this setVariable ['Debug',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"BOOL"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute2
+			{
+				property="Werthles_moduleWHM_UseServer";
+				expression="_this setVariable ['UseServer',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"BOOL"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute3
+			{
+				property="Werthles_moduleWHM_Wait";
+				expression="_this setVariable ['Wait',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=30;
+					};
+				};
+			};
+			class Attribute4
+			{
+				property="Werthles_moduleWHM_NoDebug";
+				expression="_this setVariable ['NoDebug',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"BOOL"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute5
+			{
+				property="Werthles_moduleWHM_Advanced";
+				expression="_this setVariable ['Advanced',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"BOOL"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute6
+			{
+				property="Werthles_moduleWHM_Units";
+				expression="_this setVariable ['Units',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="1";
+					};
+				};
+			};
+			class Attribute7
+			{
+				property="Werthles_moduleWHM_Pause";
+				expression="_this setVariable ['Pause',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=3;
+					};
+				};
+			};
+			class Attribute8
+			{
+				property="Werthles_moduleWHM_Delay";
+				expression="_this setVariable ['Delay',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=30;
+					};
+				};
+			};
+			class Attribute9
+			{
+				property="Werthles_moduleWHM_DebugOnly";
+				expression="_this setVariable ['DebugOnly',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"BOOL"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute10
+			{
+				property="Werthles_moduleWHM_Repeating";
+				expression="_this setVariable ['Repeating',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"BOOL"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute11
+			{
+				property="Werthles_moduleWHM_Report";
+				expression="_this setVariable ['Report',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"BOOL"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			nAttributes=12;
+		};
+	};
+	class Item1
+	{
+		dataType="Layer";
+		name="Werthles Headless Client";
+		class Entities
+		{
+			items=2;
+			class Item0
+			{
+				dataType="Logic";
+				class PositionInfo
+				{
+					angles[]={6.2312269,0,6.2671809};
+				};
+				name="HC_1";
+				isPlayer=1;
+				isPlayable=1;
+				id=40;
+				type="HeadlessClient_F";
+			};
+			class Item1
+			{
+				dataType="Logic";
+				class PositionInfo
+				{
+					angles[]={6.2418733,0,6.244544};
+				};
+				name="HC_2";
+				isPlayable=1;
+				id=41;
+				type="HeadlessClient_F";
+			};
+		};
+		id=39;
+		atlOffset=52.327652;
+	};
+};
+class connections
+{
+	class LinkIDProvider
+	{
+		nextID=2;
+	};
+	class Links
+	{
+		items=2;
+		class Item0
+		{
+			linkID=0;
+			item0=40;
+			item1=26;
+			class CustomData
+			{
+				type="Sync";
+			};
+		};
+		class Item1
+		{
+			linkID=1;
+			item0=41;
+			item1=26;
+			class CustomData
+			{
+				type="Sync";
+			};
+		};
+	};
+};
